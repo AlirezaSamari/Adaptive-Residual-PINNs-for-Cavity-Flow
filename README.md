@@ -1,4 +1,4 @@
-[View the PDF](Adaptive-Activation%20Residual%20Physics-Informed%20Neural%20Network-Doc.pdf)
+* Adaptive Physics-Informed Neural Networks for Navier Stokes Equations [View the PDF](Adaptive-Activation%20Residual%20Physics-Informed%20Neural%20Network-Doc.pdf)
 ![](Images/Adaptive-Activation%20Residual%20Physics-Informed%20Neural%20Network_00001.jpg)
 ![](Images/Adaptive-Activation%20Residual%20Physics-Informed%20Neural%20Network_00002.jpg)
 ![](Images/Adaptive-Activation%20Residual%20Physics-Informed%20Neural%20Network_00003.jpg)
