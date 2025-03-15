@@ -282,7 +282,6 @@ plt.colorbar(contour_p)
 plt.savefig('/content/drive/MyDrive/physics informed/Cavity/pressure_p.png', format='png', dpi=1000)
 plt.show()
 
-# Velocity Magnitude |u|
 plt.figure(figsize=(6, 5))
 contour_umag = plt.contourf(u_magnitude, levels=50, cmap='Spectral')
 plt.title(r'Velocity Magnitude $|u|$')
